@@ -39,7 +39,7 @@ The instructions assume that you have an up to data and working moonraker instal
 
 ```sh
 cd ~
-git clone https://github.com/fluidd-core/fluidd-config.git
+git clone https://github.com/LynxCrew/fluidd-config.git
 ln -sf ~/fluidd-config/fluidd.cfg ~/printer_data/config/fluidd.cfg
 ```
 
