@@ -54,7 +54,7 @@ Either open your moonraker.conf and add
 type: git_repo
 primary_branch: master
 path: ~/fluidd-config
-origin: https://github.com/fluidd-core/fluidd-config.git
+origin: https://github.com/LynxCrew/fluidd-config.git
 managed_services: klipper
 ```
 
